@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathurshanan-manoharan&label=Profile%20views&color=0e75b6&style=flat" alt="sathurshanan-manoharan" /> </p>
 
-- 🌱 I’m currently learning **React and Flutter**
+- I’m currently learning **React and Flutter**
 
-- 📫 How to reach me **shathurshmanoharan@gmail.com**
+- How to reach me **shathurshmanoharan@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
