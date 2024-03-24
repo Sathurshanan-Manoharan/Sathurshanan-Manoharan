@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Flutter**
 
-- 👨‍💻 All of my projects are available at [sathurshanan.me](sathurshanan.me)
+- 👨‍💻 All of my projects are available at <a href="sathurshanan.me"/>sathurshanan.me</a>
 
 - 📫 How to reach me **shathurshmanoharan@gmail.com**
 
